@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 76D0-458B
+
+ Directory of C:\Users\samud\OneDrive\Desktop\MyProject
+
+06/14/2018  12:24 AM    <DIR>          .
+06/14/2018  12:24 AM    <DIR>          ..
+06/14/2018  12:24 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  931,667,173,376 bytes free
